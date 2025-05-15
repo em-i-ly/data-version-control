@@ -1,5 +1,5 @@
 train:
-  model: forest
+  model: logistic
   C: 1.0
   max_iter: 100
   n_estimators: 100
