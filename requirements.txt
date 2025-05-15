@@ -1,0 +1,11 @@
+# requirements.txt
+pandas
+scikit-learn
+joblib
+PyYAML
+dvclive
+dvc
+scikit-image
+matplotlib 
+seaborn
+ipykernel
